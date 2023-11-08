@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 5314227198235,
+      "title": "aa",
+      "author": "dfdslajf",
+      "content": "fsdafsa",
+      "image": "/images/img3.png"
+    },
+    {
+      "id": 5314231488458,
+      "title": "tiêu đề 1",
+      "author": "tác giả 1",
+      "content": "nội dung 1",
+      "image": "/images/img2.png"
+    },
+    {
+      "id": 5314237511998,
+      "title": "Ngắm nhan sắc hoa khôi bóng chuyền lọt top 10 Hoa hậu thế giới Việt Nam 2023",
+      "author": "Phan Văn Tho",
+      "content": "Hoa khôi bóng chuyền Nguyễn Ngân Hà là một trong những người đẹp lọt vào top 10 Hoa hậu thế giới Việt Nam 2023.",
+      "image": "/images/ngan-ha-6-00552748.jpg"
+    },
+    {
+      "id": 5314256657479,
+      "title": "Nhan sắc thăng hạng của Hoa hậu Lương Thuỳ Linh ở tuổi 23",
+      "author": "Nhan sắc thăng hạng của Hoa hậu Lương Thuỳ Linh ở tuổi 23",
+      "content": "Hoa hậu Lương Thùy Linh xuất hiện trong bộ ảnh đậm chất tiểu thư, khoe sắc vóc “không phải dạng vừa” để mừng tuổi mới.",
+      "image": "/images/ltl1-14110892.jpeg"
+    }
+  ]
+}

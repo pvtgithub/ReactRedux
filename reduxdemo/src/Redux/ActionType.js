@@ -1,0 +1,5 @@
+export const MAKE_REQUEST = "MAKE_REQUEST"
+export const FAIL_REQUEST = "FAIL_REQUEST"
+export const GET_NEWS_LIST = "GET_NEWS_LIST"
+export const CHANGE_LOADING = "CHANGE_LOADING"
+export const GET_ONE_NEWS = "GET_ONE_NEWS"
